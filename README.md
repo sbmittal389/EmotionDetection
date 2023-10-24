@@ -14,3 +14,6 @@ This project is aimed to develop the Facial Emotion based Music Recommendation s
 # Technology Used
 Languages: Python, HTML, CSS
 Web-Framework: Flask
+
+
+Link to the research paper - [Mus-Emo: An Automated Facial Emotion-Based Music Recommendation System Using Convolutional Neural Network](https://link.springer.com/chapter/10.1007/978-981-16-2911-2_29)
